@@ -5,3 +5,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 update from local.
 update from origin.
+=======
+My stupid boss still (make conflict) prefers SVN.
